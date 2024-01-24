@@ -1,3 +1,4 @@
+this.firstName='Alan';
 const person = {
  firstName: 'Grace',
  lastName: 'Hopper',
